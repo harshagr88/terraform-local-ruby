@@ -3,6 +3,7 @@ Prerequisites
 1. Docker desktop
 2. Kubernetes
 3. Terraform
+4. GitHub account
 
 Steps to recreate deployment:
 
